@@ -7,7 +7,7 @@ main menu, background sounds, win game condtion, and a game over screen.
 
 Members:
 
-Lazaro Ayal - Timer, difficulty modes
+Lazaro Ayala - Timer, difficulty modes
 
 Joaquin Ramos - Game over screen but strike outs
 
